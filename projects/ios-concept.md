@@ -1,10 +1,9 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: "/uploads/tks_img_6007-1.jpg"
+title: Color Abstract 2
 date: 2019-01-03
 categories:
 - photography
-- yellow
 project_bg_color: ''
 project_fg_color: ''
 
