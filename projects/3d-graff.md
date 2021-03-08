@@ -1,12 +1,11 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
-title: Ice Cream
+thumbnail: "/uploads/tks_img_6007-1.jpg"
+title: Red Wave
 date: 2019-01-04
 categories:
 - photography
-- yellow
+- red
 project_bg_color: ''
 project_fg_color: "#FDC70D"
 
 ---
-![](/uploads/ian-dooley-281897-unsplash.jpg)
