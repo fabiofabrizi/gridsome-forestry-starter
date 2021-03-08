@@ -1,24 +1,15 @@
 ---
 date: 2019-06-07
-title: Gridsome with Forestry CMS
-author: Nichlas W. Andersen
-excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick
-  editing interface.
+title: The invasions of Italy, September 1943
+author: FF
+excerpt: The second moment was Anzio. The Allied landings on January 22, 1944, had
+  taken the Wehrmacht completely by surprise., and the road to Rome was literally
+  undefended. Histories of the campaign are filled with criticism of what the Allies
+  did next. They came ashore, apparently relieved at their low casualties, then dug
+  in and sat.
 
 ---
-#### Use Forestry as a CMS for Gridsome
-
-[Forestry](https://forestry.io) is a git-based headless CMS that allows editorial teams to work on Jamstack sites.
-
-It comes with a slick user interface that empowers editors to edit CommmonMark, YAML, and JSON files.
-
-Forestry UI was designed by **Nichlas W. Andersen**.
-
-You can import this starter to Forestry and start editing and creating posts or projects right away.
-
-Forestry also comes with instant previews, for you to preview your content before publishing.
-
-When you save content in **Forestry**, it's committed back to your Git repository. If you link your repository to a service like **Netlify** or **Vercel**, on every push, your site will be deployed over to a CDN network.
+#### The second moment was Anzio. The Allied landings on January 22, 1944, had taken the Wehrmacht completely by surprise, and the road to Rome was literally undefended. Histories of the campaign are filled with criticism of what the Allies did next. They came ashore, apparently relieved at their low casualties, then dug in and sat.
 
 Enjoy the best development and user experience! 🚀
 
