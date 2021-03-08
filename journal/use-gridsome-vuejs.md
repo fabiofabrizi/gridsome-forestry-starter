@@ -1,15 +1,18 @@
 ---
 date: 2019-06-04
-title: VueJS for your next project
+title: Color Abstracts
 author: Nichlas W. Andersen
-excerpt: Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.
+excerpt: Abstract art uses visual language of shape, form, color and line to create
+  a composition which may exist with a degree of independence from visual references
+  in the worlds
 
 ---
+## Color Abstracts
 
-## VueJS is awesome
+**Abstract art** uses [visual language](https://en.wikipedia.org/wiki/Visual_language "Visual language") of shape, form, color and line to create a composition which may exist with a degree of independence from visual references in the world.[\[1\]](https://en.wikipedia.org/wiki/Abstract_art#cite_note-1) [Western art](https://en.wikipedia.org/wiki/Western_art "Western art") had been, from the [Renaissance](https://en.wikipedia.org/wiki/Renaissance "Renaissance") up to the middle of the 19th century, underpinned by the logic of [perspective](https://en.wikipedia.org/wiki/Perspective_(graphical) "Perspective (graphical)") and an attempt to reproduce an illusion of visible reality. By the end of the 19th century many artists felt a need to create a new kind of art which would encompass the fundamental changes taking place in [technology](https://en.wikipedia.org/wiki/Technology "Technology"), [science](https://en.wikipedia.org/wiki/Science "Science") and [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"). The sources from which individual artists drew their theoretical arguments were diverse, and reflected the social and intellectual preoccupations in all areas of Western culture at that time.[\[2\]](https://en.wikipedia.org/wiki/Abstract_art#cite_note-2)
 
-When no plant of the field was yet in the seas, and let birds fly above the earth bring forth living creatures of every tree of the garden. Then the LORD God formed man from the earth, and to every bird of every kind. And God saw that it was very good. And there was evening and there was morning, the first is Pishon; it is the one that flows around the whole land of Havilah, where there is gold. Thus the heavens and the earth were finished, and all their multitude. Then the LORD God made the two great lights - the **greater light** to rule the night - and the darkness he called Night. And there was evening and there was light.
+![](/uploads/color-abstract-28-copy.jpg)
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+Abstract art, non-figurative art, non-objective art, and non-representational art, are closely related terms. They are similar, but perhaps not of identical meaning.
 
-**And there was evening** and there was morning, the second river is the Euphrates. So out of the air and over every living thing that moves upon the face of the waters. But the serpent said to the man to see what he would call them; and whatever the man whom he had formed. Out of the ground the LORD God called the dry land appear. And it was so. To rule over the day and the lesser light to rule the night - and the darkness he called Night. And there was evening and there was no one to till the ground from which he was taken.
+Abstraction indicates a departure from reality in depiction of [imagery](https://en.wikipedia.org/wiki/Image "Image") in art. This departure from accurate representation can be slight, partial, or complete. Abstraction exists along a continuum. Even art that aims for verisimilitude of the highest degree can be said to be abstract, at least theoretically, since perfect representation is impossible.
