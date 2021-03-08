@@ -33,6 +33,7 @@ fields:
     required: true
     options:
     - Nichlas W. Andersen
+    - FF
   label: Author
   default: Nichlas W. Andersen
 pages:
