@@ -1,8 +1,8 @@
 ---
 date: 2019-05-18
-title: macOS development environment
+title: The second moment was Anzio
 author: Nichlas W. Andersen
-excerpt: Get up and running with a fresh macOS Catalina install
+excerpt: Allied Landings in Italy
 
 ---
 ## The second moment was Anzio. 
